@@ -9,7 +9,7 @@ public class Average {
         int n2 = ap.nextInt("Value for n2?");
         double z= (n1+n2)/2;
         System.out.println("the average is "+z);
-
+// check
 
     }
 }
